@@ -55,7 +55,7 @@ The focus of this project is on **frontend fundamentals**, API integration, erro
 
 ## 👨‍💻 Author
 Soumayan Chatterjee
-🎓 Engineering Student 
+
 
 GitHub: https://github.com/SoumayanChatterjee
 
