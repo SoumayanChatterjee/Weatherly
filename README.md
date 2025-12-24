@@ -1,8 +1,5 @@
 # 🌦️ Weatherly — Weather Application
 
-🔗 **Live Demo:** https://my-weather-web-js.netlify.app
-
-
 🔗 **GitHub Repository:** https://github.com/SoumayanChatterjee/Weatherly
 
 Weatherly is a clean and responsive **weather application** built using **HTML, CSS, and JavaScript**.  
